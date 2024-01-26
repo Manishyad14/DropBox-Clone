@@ -1,4 +1,4 @@
-This is DropBox clone project with CRUD functionalities.
+This is a  DropBox clone project with CRUD functionalities.
 
 This is a Next.js project bootstrapped with create-next-app.
 
@@ -42,16 +42,31 @@ ________________________________________________________________________________
 DropClone Link-->>
 _____________________________________________________________________________________________________________________
 You can visit ::
+
+
 https://vercel.com/manish-yadavs-projects-f0e15795/dropbox-clone/FmHsd2jzYFWk9Wn4uv8wJXGx2NeT
+
+
 https://vercel.com/manish-yadavs-projects-f0e15795/dropbox-clone
 
 _______________________________________________________________________________________________________________________
 Some Important Linkss-->>>
 _______________________________________________________________________________________________________________________
 https://firebase.google.com/
+
+
+
 https://clerk.com/
+
+
 https://ui.shadcn.com/
+
+
 https://nextjs.org/
+
+
 https://tailwindcss.com/
+
+
 ______________________________________________________________________________________________________________________
 By Manish Yadav Jan-2024
